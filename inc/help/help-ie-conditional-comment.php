@@ -1,0 +1,3 @@
+<p><?php _e( 'Set conditional comment to target Internet Explorer (or everything <em>except</em> Internet Explorer) specifically. For more information on conditional comments and how to utilize them see <a href="http://www.quirksmode.org/css/condcom.html">this article on QuirksMode.org</a>.', 'theme-independent-stylesheets' ); ?></p>
+
+<p><?php _e( '<strong>NOTE:</strong> Conditional comments only work in Internet Explorer versions 5 through 9 and as such only those versions of Internet Explorer can be targeted using conditional comments. Any versions before 5 or after 9 do not support conditional comments and will ignore them/treat them as regular HTML comments.', 'theme-independent-stylesheets' ); ?></p>
